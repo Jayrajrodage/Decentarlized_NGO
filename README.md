@@ -1,8 +1,8 @@
-#Decentralized_NGO_Contract
+***Decentralized_NGO_Contract***
 
 This repository contains the Solidity smart contract for a decentralized NGO on the Ethereum blockchain. The contract allows for community members to make donations, propose how funds should be allocated, vote on proposals and make transparent and decentralized decision making.
 
-#Features-:
+***Features-:***
 
 1.Accepts donations in Ether.
 
@@ -14,7 +14,7 @@ This repository contains the Solidity smart contract for a decentralized NGO on 
 
 5.Refund functionality
 
-#contract_methods-:
+***contract_methods-:***
 
 sendEth() : to make a donation.
 
